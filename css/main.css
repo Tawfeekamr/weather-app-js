@@ -1,0 +1,16 @@
+body{
+    background-color: aquamarine;
+    position: relative;
+    text-align: center;
+}
+
+.container{
+    text-align: center;
+   background-color: azure;
+   position: absolute;
+  /* align-items: center; */
+left: 50%;
+right: 50%;
+width: 200px;
+}
+
